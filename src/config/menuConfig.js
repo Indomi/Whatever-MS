@@ -14,7 +14,7 @@ export default [{
         key: '/ui/modals',
       },
       {
-        title: 'Loading',
+        title: 'Loadings',
         key: '/ui/loadings',
       },
       {
